@@ -11,9 +11,10 @@ Um protótipo de jogo 3D desenvolvido na Unreal Engine 5. Este projeto demonstra
 
 ## Instalação
 1. Clone o repositório:```git clone https://github.com/seu-usuario/seu-projeto.git```
+   
    (Ou baixe-o pelo botão verde acima **Clone** -> **Download ZIP**)
-2. Abra o arquivo .uproject com a Unreal Engine.
-3. Aguarde a compilação dos shaders e carregamento do projeto.
+3. Abra o arquivo .uproject com a Unreal Engine.
+4. Aguarde a compilação dos shaders e carregamento do projeto.
 
 ## Como Rodar
 - Pressione **Play** dentro do editor para iniciar o jogo.
