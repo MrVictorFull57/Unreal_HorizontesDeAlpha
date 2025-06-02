@@ -1,4 +1,3 @@
-
 # Os Horizontes de Alpha
 
 ## Descrição
@@ -12,25 +11,22 @@ Protótipo de jogo 3D desenvolvido na Unreal Engine 5. Este projeto demonstra ha
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   ```
+   ```git clone https://github.com/seu-usuario/seu-projeto.git ```
 
 
 2. Abra o arquivo .uproject com a Unreal Engine.
 3. Aguarde a compilação dos shaders e carregamento do projeto.
 
 ## Como Rodar
-- Pressione Play dentro do editor para iniciar o jogo.
+- Pressione *Play* dentro do editor para iniciar o jogo.
 - Ou compile o projeto e execute o .exe gerado na pasta WindowsNoEditor.
 
 ## Capturas de Tela
 [sem nenhuma imagem ou GIF ainda]
 
 ## Autor
-Seu Nome
-LinkedIn
-Portfólio
+Victor Full V2
+[link do meu LinkedIn]
 
 ## Licença
 Este projeto é apenas para fins educacionais e de portfólio. Não deve ser redistribuído comercialmente sem permissão.
