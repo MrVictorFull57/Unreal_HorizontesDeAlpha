@@ -55,23 +55,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AvfMedia",
-			"Enabled": false
-		},
-		{
 			"Name": "NullSourceCodeAccess",
 			"Enabled": false
 		},
 		{
 			"Name": "LinuxDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
 			"Enabled": false
 		},
 		{
@@ -142,14 +130,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "WmfMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
 			"Name": "WebMMoviePlayer",
 			"Enabled": false
 		},
@@ -207,6 +187,30 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "ChaosClothEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "WmfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "BinkMedia",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
